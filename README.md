@@ -1,11 +1,11 @@
-Задачи
+Tasks
 
 Analysis of the table data.
 Identification of patterns.
 Calculation of some values.
 Studying user actions.
 
-Описание данных
+Data Description
 
 action – action ("cancel_order", "accept_order"...)
 user_id – user_id (142)
